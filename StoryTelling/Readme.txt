@@ -1,1 +1,1 @@
-This exercise is for the Storytelling Module. The work is incomplete and still in progress.
+This exercise is for the Storytelling Module.
