@@ -1,2 +1,2 @@
 Submission for Project: Work Inferential Statistics. 
-Status: Work in Progress
+Status Completed and ready to be graded.
