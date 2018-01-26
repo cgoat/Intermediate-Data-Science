@@ -1,0 +1,9 @@
+1) Apply  Logistic Regression on the data, plot the roc and auc values
+2) Apply  RandomForest Classifier on the data, plot the roc and auc values
+3) Perform PCA 
+4) Do a scatter plot on the PCA with two components.
+5) Re-balance the class using oversampling.
+6) Apply Logistic Regression and Randomforest and compare the results.
+7) Use Gridsearch to improve the performance
+8) Export the model
+9) Develop a API and call it from a web page.
